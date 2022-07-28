@@ -32,7 +32,7 @@ yarn install
 
 ## For checking and reviewing as expo APP
 
-Download [expo Mobile](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) and paste this link to use the app itself ->
+Download [expo Mobile](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) and paste this link to use the app itself -> exp://exp.host/@vagenodipa/SerinoCodingExam?release-channel=default
 
 ## Development and Testing
 
