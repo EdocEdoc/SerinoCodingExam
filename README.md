@@ -1,4 +1,4 @@
-# Serino React Native Tech Exma
+# Serino React Native Tech Exam
 
 React Native Mobile application
 
